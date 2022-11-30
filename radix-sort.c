@@ -1,5 +1,6 @@
 #include <stdio.h>
  
+
 #define MAX_LEN 100
  
 static int get_max(int array[], int n) 
